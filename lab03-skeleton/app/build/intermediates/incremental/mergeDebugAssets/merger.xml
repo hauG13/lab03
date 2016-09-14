@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\semester5\android\lab03-skeleton\app\src\main\assets"><file name="lab03-activity-logging-state-prefs.docx" path="H:\semester5\android\lab03-skeleton\app\src\main\assets\lab03-activity-logging-state-prefs.docx"/></source></dataSet><dataSet config="debug"><source path="H:\semester5\android\lab03-skeleton\app\src\debug\assets"/></dataSet></merger>
